@@ -1,0 +1,92 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.autoSave": "off",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "window.menuBarVisibility": "toggle",
+  "material-icon-theme.folders.associations": {
+    "domain": "core",
+    "infra": "tools",
+    "main": "public",
+    "models": "shared",
+    "protocols": "stack",
+    "repository": "batch",
+    "repositorys": "batch",
+    "useCases": "other",
+    "presentation": "views",
+    "ilustrations": "svg",
+    "lottie": "json",
+    "http": "public",
+    "modules": "plugin",
+    "module": "plugin",
+    "factories": "container",
+    ".jest": "test",
+    ".next": "webpack",
+    "venv": "python"
+  },
+  "material-icon-theme.files.associations": {
+    ".babel-auto-import-paths.js": "babel",
+    "*.repository.ts": "nest-resolver",
+    "*.spec.ts": "test-js",
+    "e2e.jest.config.js": "jest"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "redhat.telemetry.enabled": true,
+  "material-icon-theme.activeIconPack": "react",
+  "workbench.startupEditor": "none",
+  "git.confirmSync": false,
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.unicodeHighlight.allowedCharacters": {
+    " ": true
+  },
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.colorTheme": "Omni",
+  "git.autofetch": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+}
